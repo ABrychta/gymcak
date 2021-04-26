@@ -1,3 +1,4 @@
+
 const isNotOdd = require('is-not-odd');
  
 console.log(isNotOdd('0')); //=> true
